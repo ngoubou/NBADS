@@ -1,1 +1,2 @@
 # A Brief Introduction to $\texttt{R}$
+Hadley Wickham is actually a New Zealander and not an Australian
